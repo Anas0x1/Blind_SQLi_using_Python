@@ -29,13 +29,13 @@ This script exploits the Blind SQL Injection vulnerability in the "Time Delays &
   ![sqli2](https://github.com/0x0anas/Blind_SQLi_using_Python/assets/78263620/a7fdbe1e-deab-44ed-a395-d0b9fb18a74e)
 
 
-4. Run the desired script with Python, providing the URL of the lab as a command-line argument: `python3 <script_name>.py -u <lab_url>`
+4. If you forgot to add the lab link as an argument after the -u option, the tool will remind you.
 
   ![sqli3](https://github.com/0x0anas/Blind_SQLi_using_Python/assets/78263620/af959f2c-4ada-4f93-b4aa-f1ae9aee0efc)
 
 5. Replace <script_name>, and <lab_url> with appropriate values.
 
-6. The tool retrieved administrator password
+6. Run the desired script with Python, providing the URL of the lab as a command-line argument: `python3 <script_name>.py -u <lab_url>`, then the tool retrieved administrator password
 
   ![sqli4](https://github.com/0x0anas/Blind_SQLi_using_Python/assets/78263620/41d3b219-42b4-47ce-8227-830d075edb49)
 
